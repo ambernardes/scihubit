@@ -1,0 +1,16 @@
+{
+  "title": "Sci Hub it!",
+  "name": "scihubit",
+  "version": "0.0.1",
+  "description": "Simple add-on to make it easier to use Sci-Hub.",
+  "main": "index.js",
+  "author": "Antônio Marcos <amm.bernardes@gmail.com>",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
